@@ -9,7 +9,7 @@
     "resolveJsonModule": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "target": "es2020",
     "lib": ["es2020"],
     "baseUrl": ".",
